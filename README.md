@@ -1,8 +1,6 @@
 # Screely Button
 
-https://www.youtube.com/watch?v=0nMuFJZs2YA
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=0nMuFJZs2YA" 
-target="_blank"></a>
+![demo](https://media.giphy.com/media/BousfXvv7ynHG9Dv94/giphy.gif)
 
 ## Description
 Just a hack for taking screenshots and upload them automatically to fantastic 
